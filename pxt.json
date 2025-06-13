@@ -9,7 +9,10 @@
     },
     "files": [
         "README.md",
-        "teste-link-deprojeto.md"
+        "teste-link-deprojeto.md",
+        "6.1-Polinizacao.md",
+        "6.3-Medidor-de-Nivel.md",
+        "6.2-Robo-Semeador.md"
     ],
     "testFiles": [],
     "public": true,
